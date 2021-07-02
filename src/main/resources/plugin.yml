@@ -1,4 +1,4 @@
-name: TofaaAPI
+name: TofieAPI
 version: ${project.version}
 main: me.tofaa.tofaaapi.TofaaAPI
 api-version: 1.14

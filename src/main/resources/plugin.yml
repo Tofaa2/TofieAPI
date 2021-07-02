@@ -1,0 +1,7 @@
+name: TofaaAPI
+version: ${project.version}
+main: me.tofaa.tofaaapi.TofaaAPI
+api-version: 1.14
+loadbefore: [ TofieItems, TofieSkills ]
+authors: [ Tofaa ]
+description: API Plugin for all my other plugins
